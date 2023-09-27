@@ -1,0 +1,49 @@
+##############################################################################
+## PowerPoint Slide Generation Template
+##
+## Instructions:
+##
+## 1. DO NOT delete or modify the lines with "##" at the beginning.
+## 2. Each slide begins with "--- Slide ---" and ends with "--- End Slide ---".
+## 3. Use the provided fields (Layout, Title, Content, Speaker Note) for each slide.
+## 4. Each field should be followed by its content on the next line(s).
+## 5. "Layout" should be a number corresponding to the slide layout you desire.
+##    - 0: Title Slide
+##    - 1: Title and Content
+##    - 2: Section Header
+##    - 3: Two Content
+##    - 4: Comparison
+##    - 5: Title Only
+##    - 6: Blank
+##    - 7: Content with Caption
+##    - 8: Picture with Caption
+##
+## 6. If a field is not needed for a slide, simply leave it empty.
+##
+## Example:
+##
+## --- Slide ---
+## Layout: 0
+## Title: Your Slide Title Here
+## Content: 
+## Your slide content here.
+## Speaker Note: 
+## Your speaker notes here.
+## --- End Slide ---
+##
+##############################################################################
+
+--- Slide ---
+Layout: 0
+Title: 
+Content: 
+Speaker Note: 
+--- End Slide ---
+
+--- Slide ---
+Layout: 1
+Title: 
+Content: 
+Speaker Note: 
+--- End Slide ---
+
